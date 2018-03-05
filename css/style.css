@@ -1,0 +1,22 @@
+body{
+  background-color:purple;
+    }
+.tim-Button{
+    background-color:red;
+    color:black;
+              }
+
+a{
+  color:white;
+}
+
+h1{
+  text-align:center;
+  padding:25px;
+}
+
+#A-Div{
+  background-color:yellow;
+  padding:100px;
+  margin:200px;
+}
