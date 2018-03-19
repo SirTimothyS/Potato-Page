@@ -8,7 +8,7 @@
 
 input {
 	outline:  none !important;
-	border-radius: 0 !important;	 
+	border-radius: 0 !important;
 }
 
 
@@ -29,7 +29,7 @@ text-decoration:none;
 body {
 	font: 12px/18px  Arial, Helvetica, sans-serif;
 	color:#d5d5d5;
-	background-color: #322b36;
+	background-color: #7424a2;
 	position:relative;
 	min-width:960px;
 
@@ -62,7 +62,7 @@ h3 {
 	line-height: 36px;
 	padding-top: 22px;
 	margin-bottom: 20px;
-	
+
 }
 
 h3.head1 {
@@ -136,7 +136,7 @@ a {
 
 a:hover {
 	color: #fe8c21;
-	
+
 }
 
 .alright {
@@ -201,7 +201,7 @@ a.btn:hover  {
 }
 
 .fright {
-	float: right !important;	
+	float: right !important;
 }
 
 .upp {
@@ -254,7 +254,7 @@ h1 a {
 }
 
 h1 a img {
-	display: block;	
+	display: block;
 }
 
 #search {
@@ -627,4 +627,3 @@ footer {
 	border-top: 1px solid #fe8c21;
 
 }
-
