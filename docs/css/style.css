@@ -11,6 +11,11 @@ input {
 	border-radius: 0 !important;
 }
 
+.imageclass{
+	max-height: 200px;
+	min-height: 200px;
+	margin: 0 auto;
+}
 
 html {
 	width: 100%;
@@ -27,7 +32,14 @@ text-decoration:none;
 
 .card-img-top{
 	min-height: 200px;
+	max-height: 210px;
 }
+
+.potatoclass{
+	margin-top: 25px;
+	margin-bottom: 60px;
+}
+
 body {
 	font: 12px/18px  Arial, Helvetica, sans-serif;
 	color:#d5d5d5;
