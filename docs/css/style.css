@@ -593,7 +593,12 @@ address dd span {
 	text-align: left;
 }
 
-.socials {
+.
+.potatoclass2{
+	font-size: 50px;
+	font-weight: bold;
+}
+ {
 	overflow: hidden;
 	float: right;
 	padding-top: 16px;
@@ -636,6 +641,11 @@ footer {
 .container-shop {
 
 
+}
+
+.potatoclass2{
+	font-size: 50px;
+	font-weight: bold;
 }
 
 .col-center {
