@@ -254,7 +254,7 @@ h1 {
 	float: left;
 	padding-top: 61px;
 	z-index: 999;
-
+	min-width: 50rem;
 }
 h1 a {
 	display: block;
