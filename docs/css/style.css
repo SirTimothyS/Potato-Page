@@ -368,6 +368,10 @@ h1 a img {
 
 .ind {
 	height: 60px;
+	max-width: inherit;
+}
+.ind h1{
+	
 }
 .typo .anim {
 	width: 635px;
